@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- debug config -->
+<launch>
+	<copy file="test2.net.xml" />
+	<copy file="test2.route.xml" />
+	<copy file="test2.poly.xml" />
+	<copy file="test2.sumo.cfg" type="config" />
+</launch>
+
